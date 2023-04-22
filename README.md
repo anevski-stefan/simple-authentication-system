@@ -29,15 +29,15 @@ git clone https://github.com/anevski-stefan/simple-authentication-system.git
 
 ## Usage
 
-### Sign Up
+#### Sign Up
 
 To sign up, click on the "Sign Up" link in the navigation bar and fill out the form with your desired information. Once you submit the form, the system will create a new user account for you.
 
-### Log In
+#### Log In
 
 To log in, click on the "Log In" link in the navigation bar and enter your email address and password. If your information is correct, the system will log you in and redirect you to the home page.
 
-### Log Out
+#### Log Out
 
 To log out, click on the "Log Out" link in the navigation bar. The system will log you out and redirect you to the home page.
 
