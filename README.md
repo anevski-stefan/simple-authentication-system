@@ -42,6 +42,7 @@ To log in, click on the "Log In" link in the navigation bar and enter your email
 To log out, click on the "Log Out" link in the navigation bar. The system will log you out and redirect you to the home page.
 
 
+
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE](./LICENSE) file for details.
